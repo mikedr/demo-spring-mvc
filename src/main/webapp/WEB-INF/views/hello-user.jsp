@@ -8,5 +8,5 @@
         <title>Hello form</title>
     </head>
     <body>
-        <h1>Hello ${param.username}!</h1>
+        <h1>${message}!</h1>
 </html>
