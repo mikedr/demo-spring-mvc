@@ -12,7 +12,7 @@
         
         <p>Set your name</p>
         
-        <form action="processform" method="GET">
+        <form action="processformV2" method="GET">
         	<input type="text" name="username"
         		placeholder="What's your name?" />
         	<input type="submit" />
